@@ -2,7 +2,7 @@ function tellYourName(yourName, addreess) {
   console.log(
     "perkenalkan nama saya adalah " +
       yourName +
-      "dan saya tinggal di " +
+      " dan saya tinggal di " +
       addreess
   );
 }
